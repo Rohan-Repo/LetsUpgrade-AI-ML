@@ -1,0 +1,5 @@
+Hypothesis #1 - if age is less than 35 has a higher attrition rate
+Hypothesis #2 - if distance from home is greater than 9 has a higher attrition rate
+Hypothesis #3 - Work-Exp greater than 7 years has a higher attrition rate
+Hypothesis #4 - percentsalaryhike is less than 15 and monthly income is less than 65000 has a higher attrition rate
+Hypothesis #5 - NumCompaniesWorked worked more than 2 has a higher attrition rate
